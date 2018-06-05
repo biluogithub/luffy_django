@@ -1,7 +1,7 @@
 from django.conf.urls import url, include
 from api.views import course
 
-
+# 星哥哥——————————————————————
 urlpatterns = [
     url(r'^coursecategory/$', course.CourseCategoryView.as_view({'get': 'list'})),
 
