@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ef54830-1b9f-4c8b-a495-04966123d607" name="Default" comment="" />
+    <list default="true" id="6ef54830-1b9f-4c8b-a495-04966123d607" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xubohua.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/luffy_django.iml" afterPath="$PROJECT_DIR$/.idea/luffy_django.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="128" column="18" lean-forward="false" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
+            <state relative-caret-position="418">
+              <caret line="130" column="43" lean-forward="false" selection-start-line="130" selection-start-column="43" selection-end-line="130" selection-end-column="43" />
               <folding>
                 <element signature="e#304#498#0" expanded="false" />
                 <element signature="e#544#793#0" expanded="false" />
@@ -52,9 +58,7 @@
                 <element signature="e#5864#6266#0" expanded="false" />
                 <element signature="e#6308#6851#0" expanded="false" />
                 <element signature="e#6893#7856#0" expanded="false" />
-                <element signature="e#7893#8863#0" expanded="false" />
                 <element signature="e#8863#8864#0" expanded="false" />
-                <element signature="e#11141#12119#0" expanded="false" />
                 <element signature="e#12221#12394#0" expanded="false" />
                 <element signature="e#12378#12394#0" expanded="false" />
                 <element signature="e#12429#14156#0" expanded="false" />
@@ -63,6 +67,26 @@
                 <element signature="e#15394#15509#0" expanded="false" />
                 <element signature="e#15550#15677#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/serializers/course.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="52" column="31" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xubohua.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xubohua.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -76,6 +100,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -87,6 +114,7 @@
         <option value="$PROJECT_DIR$/api/serializers/course.py" />
         <option value="$PROJECT_DIR$/api/views/course.py" />
         <option value="F:/python/Lib/site-packages/rest_framework/views.py" />
+        <option value="$PROJECT_DIR$/xubohua.py" />
       </list>
     </option>
   </component>
@@ -96,9 +124,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="173" />
-    <option name="y" value="176" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1085" />
     <option name="height" value="621" />
   </component>
@@ -117,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,12 +161,6 @@
               <item name="luffy_django" type="b2602c69:ProjectViewProjectNode" />
               <item name="luffy_django" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="serializers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="luffy_django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="luffy_django" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -151,14 +172,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../day109-git stash" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -177,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django server.luffy_django">
+  <component name="RunManager">
     <configuration name="luffy_django" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,6 +227,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6ef54830-1b9f-4c8b-a495-04966123d607" name="Default" comment="" />
@@ -216,28 +241,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24508321" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0789916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15128593" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24508321" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297561" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0789916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="manage.py@luffy_django" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8048359" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297561" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -275,36 +303,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="e#304#498#0" expanded="false" />
-            <element signature="e#544#793#0" expanded="false" />
-            <element signature="e#834#1837#0" expanded="false" />
-            <element signature="e#1873#2393#0" expanded="false" />
-            <element signature="e#2361#2393#0" expanded="false" />
-            <element signature="e#2433#2812#0" expanded="false" />
-            <element signature="e#2847#4388#0" expanded="false" />
-            <element signature="e#5311#5822#0" expanded="false" />
-            <element signature="e#5864#6266#0" expanded="false" />
-            <element signature="e#6308#6851#0" expanded="false" />
-            <element signature="e#6893#7856#0" expanded="false" />
-            <element signature="e#7893#8863#0" expanded="false" />
-            <element signature="e#8863#8864#0" expanded="false" />
-            <element signature="e#11141#12119#0" expanded="false" />
-            <element signature="e#12221#12394#0" expanded="false" />
-            <element signature="e#12378#12394#0" expanded="false" />
-            <element signature="e#12429#14156#0" expanded="false" />
-            <element signature="e#14194#14587#0" expanded="false" />
-            <element signature="e#14622#15359#0" expanded="false" />
-            <element signature="e#15394#15509#0" expanded="false" />
-            <element signature="e#15550#15677#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/serializers/course.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="924">
@@ -319,20 +317,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/python/Lib/site-packages/django/core/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/django/core/handlers/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3058">
-          <caret line="155" column="8" lean-forward="false" selection-start-line="155" selection-start-column="8" selection-end-line="155" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/python/Lib/site-packages/django/core/wsgi.py" />
+    <entry file="file://F:/python/Lib/site-packages/django/core/handlers/wsgi.py" />
     <entry file="file://$PROJECT_DIR$/api/views/course.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -363,9 +349,7 @@
             <element signature="e#5864#6266#0" expanded="false" />
             <element signature="e#6308#6851#0" expanded="false" />
             <element signature="e#6893#7856#0" expanded="false" />
-            <element signature="e#7893#8863#0" expanded="false" />
             <element signature="e#8863#8864#0" expanded="false" />
-            <element signature="e#11141#12119#0" expanded="false" />
             <element signature="e#12221#12394#0" expanded="false" />
             <element signature="e#12378#12394#0" expanded="false" />
             <element signature="e#12429#14156#0" expanded="false" />
@@ -391,20 +375,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/python/Lib/site-packages/django/core/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/django/core/handlers/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3058">
-          <caret line="155" column="8" lean-forward="false" selection-start-line="155" selection-start-column="8" selection-end-line="155" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/python/Lib/site-packages/django/core/wsgi.py" />
+    <entry file="file://F:/python/Lib/site-packages/django/core/handlers/wsgi.py" />
     <entry file="file://$PROJECT_DIR$/api/views/course.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -435,9 +407,7 @@
             <element signature="e#5864#6266#0" expanded="false" />
             <element signature="e#6308#6851#0" expanded="false" />
             <element signature="e#6893#7856#0" expanded="false" />
-            <element signature="e#7893#8863#0" expanded="false" />
             <element signature="e#8863#8864#0" expanded="false" />
-            <element signature="e#11141#12119#0" expanded="false" />
             <element signature="e#12221#12394#0" expanded="false" />
             <element signature="e#12378#12394#0" expanded="false" />
             <element signature="e#12429#14156#0" expanded="false" />
@@ -552,9 +522,7 @@
             <element signature="e#5864#6266#0" expanded="false" />
             <element signature="e#6308#6851#0" expanded="false" />
             <element signature="e#6893#7856#0" expanded="false" />
-            <element signature="e#7893#8863#0" expanded="false" />
             <element signature="e#8863#8864#0" expanded="false" />
-            <element signature="e#11141#12119#0" expanded="false" />
             <element signature="e#12221#12394#0" expanded="false" />
             <element signature="e#12378#12394#0" expanded="false" />
             <element signature="e#12429#14156#0" expanded="false" />
@@ -603,9 +571,7 @@
             <element signature="e#5864#6266#0" expanded="false" />
             <element signature="e#6308#6851#0" expanded="false" />
             <element signature="e#6893#7856#0" expanded="false" />
-            <element signature="e#7893#8863#0" expanded="false" />
             <element signature="e#8863#8864#0" expanded="false" />
-            <element signature="e#11141#12119#0" expanded="false" />
             <element signature="e#12221#12394#0" expanded="false" />
             <element signature="e#12378#12394#0" expanded="false" />
             <element signature="e#12429#14156#0" expanded="false" />
@@ -625,20 +591,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/views.py" />
-    <entry file="file://F:/python/Lib/site-packages/django/core/handlers/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3058">
-          <caret line="155" column="8" lean-forward="false" selection-start-line="155" selection-start-column="8" selection-end-line="155" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/django/core/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/python/Lib/site-packages/django/core/handlers/wsgi.py" />
+    <entry file="file://F:/python/Lib/site-packages/django/core/wsgi.py" />
     <entry file="file://$PROJECT_DIR$/luffy_django/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -650,38 +604,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-868">
           <caret line="65" column="10" lean-forward="false" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/fa2ca4be/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.auth_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/fa2ca4be/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.api_teacher">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/fa2ca4be/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.api_coursechapter">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/django/conf/urls/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://table:/fa2ca4be/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.auth_user" />
+    <entry file="das://table:/fa2ca4be/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.api_teacher" />
+    <entry file="das://table:/fa2ca4be/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.api_coursechapter" />
+    <entry file="file://F:/python/Lib/site-packages/django/conf/urls/__init__.py" />
     <entry file="file://$PROJECT_DIR$/api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -696,48 +625,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/serializers/course.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="52" column="31" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/django/views/generic/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1594">
-          <caret line="79" column="8" lean-forward="false" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/rest_framework/viewsets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2650">
-          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/django/contrib/auth/mixins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="88" column="8" lean-forward="false" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/rest_framework/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="381" column="21" lean-forward="false" selection-start-line="381" selection-start-column="21" selection-end-line="381" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/rest_framework/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="341" column="11" lean-forward="true" selection-start-line="341" selection-start-column="11" selection-end-line="341" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/python/Lib/site-packages/django/views/generic/base.py" />
+    <entry file="file://F:/python/Lib/site-packages/rest_framework/viewsets.py" />
+    <entry file="file://F:/python/Lib/site-packages/django/contrib/auth/mixins.py" />
+    <entry file="file://F:/python/Lib/site-packages/rest_framework/request.py" />
+    <entry file="file://F:/python/Lib/site-packages/rest_framework/views.py" />
     <entry file="file://$PROJECT_DIR$/api/views/course.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -747,8 +639,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="128" column="18" lean-forward="false" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
+        <state relative-caret-position="418">
+          <caret line="130" column="43" lean-forward="false" selection-start-line="130" selection-start-column="43" selection-end-line="130" selection-end-column="43" />
           <folding>
             <element signature="e#304#498#0" expanded="false" />
             <element signature="e#544#793#0" expanded="false" />
@@ -761,9 +653,7 @@
             <element signature="e#5864#6266#0" expanded="false" />
             <element signature="e#6308#6851#0" expanded="false" />
             <element signature="e#6893#7856#0" expanded="false" />
-            <element signature="e#7893#8863#0" expanded="false" />
             <element signature="e#8863#8864#0" expanded="false" />
-            <element signature="e#11141#12119#0" expanded="false" />
             <element signature="e#12221#12394#0" expanded="false" />
             <element signature="e#12378#12394#0" expanded="false" />
             <element signature="e#12429#14156#0" expanded="false" />
@@ -772,6 +662,22 @@
             <element signature="e#15394#15509#0" expanded="false" />
             <element signature="e#15550#15677#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xubohua.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/serializers/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="52" column="31" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
